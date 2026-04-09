@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/scorebook/static/js/main.3d4d0b7b.js",
+    "index.html": "/scorebook/index.html",
+    "main.3d4d0b7b.js.map": "/scorebook/static/js/main.3d4d0b7b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d4d0b7b.js"
+  ]
+}
